@@ -1,1 +1,1 @@
-# Repositório de angular2 para o curso de Desenvolvimento de Sistemas.
+# Repositório de angular para o curso de Desenvolvimento de Sistemas.
